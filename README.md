@@ -1,6 +1,6 @@
 # PowerBuilder-Sales-Example-SQLServer
 
-The Sales App demonstrates PowerServer supporting key PowerBuilder constructs and programming styles commonly used in many existing client/server applications. It is developed with Appeon PowerBuilder and deployed to the Cloud with Appeon [PowerServer 2022 R2](https://www.appeon.com/products/powerserver). 
+The Sales App demonstrates PowerServer supporting key PowerBuilder constructs and programming styles commonly used in many existing client/server applications. It is developed with Appeon PowerBuilder and deployed to the Cloud with Appeon [PowerServer 2022 R3](https://www.appeon.com/products/powerserver). 
 
 ### Sample Project Structure
 
@@ -16,7 +16,7 @@ The project is structured as follows.
 
 Download this PowerBuilder demo application, and then:
 
-1. Open the PowerBuilder project in PowerBuilder 2022 R2.
+1. Open the PowerBuilder project in PowerBuilder 2022 R3.
 
 2. If you have restored PBDemoDB2022 on your Microsoft SQL Server, you can just skip step#3 and step#4 below to run the PowerBuilder project directly. Otherwise, please follow the steps below to configure your SQL Server Database. 
 
